@@ -11,4 +11,5 @@ resources:
       link: "optional URL to persons site"
 ---
 
+<img src="/img/map.png">
 This is first Blog This is first BlogThis is first BlogThis is first BlogThis is first BlogThis is first BlogThis is first BlogThis is first BlogThis is first BlogThis is first BlogThis is first Blog
